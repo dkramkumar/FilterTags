@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="SmokeRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+  <configuration default="false" name="TestRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
     <module name="Selenium" />
     <option name="PACKAGE_NAME" value="runner" />
-    <option name="MAIN_CLASS_NAME" value="runner.SmokeRunner" />
+    <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
     <option name="METHOD_NAME" value="" />
     <option name="TEST_OBJECT" value="class" />
     <method v="2">

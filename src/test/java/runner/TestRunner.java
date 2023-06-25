@@ -10,8 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 				features = {"src/test/resources/features/"},
 				glue = {"stepDefination"},
 				plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
-				monochrome = true,
-				strict = true)
+				monochrome = true)
 
 public class SmokeRunner {
 

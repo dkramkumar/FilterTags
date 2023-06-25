@@ -1,0 +1,240 @@
+2023-06-25 15:59:56 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 15:59:56 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:00:01 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:00:06 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:00:13 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:00:15 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :12000
+  2023-06-25 16:00:17 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:00:20 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:00:24 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:00:26 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $25,397
+  2023-06-25 16:00:26 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $13,397
+  2023-06-25 16:00:29 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:00:29 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:00:40 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:00:46 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:00:51 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:00:53 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :45000
+  2023-06-25 16:00:55 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:00:58 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:01:00 INFO  BasePage:104 - INFO: Element from With a selected is : 6.8% p.a. Extra Home Loan LVR 60% or below
+  2023-06-25 16:01:02 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:01:04 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $100,524
+  2023-06-25 16:01:04 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $55,524
+  2023-06-25 16:01:07 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:01:07 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:01:15 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:01:20 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:01:25 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:01:28 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :35000
+  2023-06-25 16:01:30 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:01:32 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 2 years
+  2023-06-25 16:01:34 INFO  BasePage:104 - INFO: Element from With a selected is : 6.88% p.a. Extra Home Loan LVR 60.01% to 70%
+  2023-06-25 16:01:36 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:01:38 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $63,503
+  2023-06-25 16:01:39 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $28,503
+  2023-06-25 16:01:41 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:01:41 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:01:46 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:01:51 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:01:56 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:01:59 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :65000
+  2023-06-25 16:02:01 INFO  BasePage:67 - INFO: Entering text in Term is :10
+  2023-06-25 16:02:03 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 3 years
+  2023-06-25 16:02:25 ERROR BasePage:106 - ERROR: Element from With a is not selected
+  2023-06-25 16:02:27 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:02:29 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $104,233
+  2023-06-25 16:02:29 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $39,233
+  2023-06-25 16:02:32 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:02:32 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:02:40 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:02:46 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:02:51 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:02:53 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :40000
+  2023-06-25 16:02:56 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:02:58 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:03:00 INFO  BasePage:104 - INFO: Element from With a selected is : 6.44% p.a. 1 Year Fixed Rate Home Loan
+  2023-06-25 16:03:02 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:03:04 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $104,139
+  2023-06-25 16:03:04 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $64,139
+  2023-06-25 16:03:07 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:03:07 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:03:13 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:03:19 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:03:23 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:03:26 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :43000
+  2023-06-25 16:03:28 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:03:30 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 2 years
+  2023-06-25 16:03:33 INFO  BasePage:104 - INFO: Element from With a selected is : 6.54% p.a. 2 Year Fixed Rate Home Loan
+  2023-06-25 16:03:35 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:03:37 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $86,051
+  2023-06-25 16:03:37 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $43,051
+  2023-06-25 16:03:40 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:03:40 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:03:44 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:03:50 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:03:55 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:03:57 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :33000
+  2023-06-25 16:03:59 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:04:02 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 3 years
+  2023-06-25 16:04:04 INFO  BasePage:104 - INFO: Element from With a selected is : 6.44% p.a. 3 Year Fixed Rate Home Loan
+  2023-06-25 16:04:06 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:04:08 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $85,941
+  2023-06-25 16:04:08 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $52,941
+  2023-06-25 16:04:11 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:04:11 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:04:18 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:04:24 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:04:29 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:04:31 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :28000
+  2023-06-25 16:04:34 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:04:36 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 4 years
+  2023-06-25 16:04:38 INFO  BasePage:104 - INFO: Element from With a selected is : 6.94% p.a. 4 Year Fixed Rate Home Loan
+  2023-06-25 16:04:40 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:04:42 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $57,025
+  2023-06-25 16:04:42 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $29,025
+  2023-06-25 16:04:45 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:04:45 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:04:50 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:04:55 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:05:00 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:05:02 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :29000
+  2023-06-25 16:05:05 INFO  BasePage:67 - INFO: Entering text in Term is :10
+  2023-06-25 16:05:07 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 5 years
+  2023-06-25 16:05:09 INFO  BasePage:104 - INFO: Element from With a selected is : 6.74% p.a. 5 Year Fixed Rate Home Loan
+  2023-06-25 16:05:11 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:05:13 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $44,930
+  2023-06-25 16:05:13 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $15,930
+  2023-06-25 16:05:16 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:05:16 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:05:24 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:05:30 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:05:35 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:05:37 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :50000
+  2023-06-25 16:05:40 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:05:42 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:05:44 INFO  BasePage:104 - INFO: Element from With a selected is : 6.93% p.a. Extra Investment Home Loan LVR 60% or below
+  2023-06-25 16:05:46 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:05:48 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $89,800
+  2023-06-25 16:05:48 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $39,800
+  2023-06-25 16:05:51 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:05:51 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:06:02 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:06:08 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:06:12 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:06:15 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :40000
+  2023-06-25 16:06:17 INFO  BasePage:67 - INFO: Entering text in Term is :25
+  2023-06-25 16:06:19 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 2 years
+  2023-06-25 16:06:22 INFO  BasePage:104 - INFO: Element from With a selected is : 6.98% p.a. Extra Investment Home Loan LVR 60.01% to 70%
+  2023-06-25 16:06:24 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:06:26 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $82,223
+  2023-06-25 16:06:26 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $42,223
+  2023-06-25 16:06:29 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:06:29 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:06:36 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:06:41 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:06:47 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:06:49 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :35000
+  2023-06-25 16:06:52 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:06:54 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 3 years
+  2023-06-25 16:06:56 INFO  BasePage:104 - INFO: Element from With a selected is : 7.15% p.a. Extra Investment Home Loan LVR 70.01% to 80%
+  2023-06-25 16:06:58 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:07:00 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $82,501
+  2023-06-25 16:07:01 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $47,501
+  2023-06-25 16:07:03 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:07:03 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:07:08 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:07:13 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:07:18 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:07:21 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :45000
+  2023-06-25 16:07:23 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:07:25 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 3 years
+  2023-06-25 16:07:47 ERROR BasePage:106 - ERROR: Element from With a is not selected
+  2023-06-25 16:07:50 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:07:52 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $127,659
+  2023-06-25 16:07:52 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $82,659
+  2023-06-25 16:07:55 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:07:55 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:08:01 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:08:06 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:08:11 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:08:13 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :35000
+  2023-06-25 16:08:16 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:08:18 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:08:20 INFO  BasePage:104 - INFO: Element from With a selected is : 6.49% p.a. 1 Year Fixed Rate Investment Home Loan
+  2023-06-25 16:08:22 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:08:24 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $72,582
+  2023-06-25 16:08:24 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $37,582
+  2023-06-25 16:08:27 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:08:27 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:08:31 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:08:37 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:08:41 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:08:44 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :55000
+  2023-06-25 16:08:46 INFO  BasePage:67 - INFO: Entering text in Term is :10
+  2023-06-25 16:08:48 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 2 years
+  2023-06-25 16:08:51 INFO  BasePage:104 - INFO: Element from With a selected is : 6.59% p.a. 2 Year Fixed Rate Investment Home Loan
+  2023-06-25 16:08:53 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:08:55 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $83,050
+  2023-06-25 16:08:55 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $28,050
+  2023-06-25 16:08:58 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:08:58 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:09:02 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:09:07 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:09:12 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:09:14 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :35000
+  2023-06-25 16:09:17 INFO  BasePage:67 - INFO: Entering text in Term is :40
+  2023-06-25 16:09:19 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 3 years
+  2023-06-25 16:09:21 INFO  BasePage:104 - INFO: Element from With a selected is : 6.49% p.a. 3 Year Fixed Rate Investment Home Loan
+  2023-06-25 16:09:23 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:09:26 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $95,676
+  2023-06-25 16:09:26 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $60,676
+  2023-06-25 16:09:28 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:09:28 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:09:35 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:09:41 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:09:45 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:09:48 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :40000
+  2023-06-25 16:09:50 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:09:52 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 4 years
+  2023-06-25 16:09:55 INFO  BasePage:104 - INFO: Element from With a selected is : 7.04% p.a. 4 Year Fixed Rate Investment Home Loan
+  2023-06-25 16:09:57 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:09:59 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $84,249
+  2023-06-25 16:09:59 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $44,249
+  2023-06-25 16:10:01 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:10:01 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:10:05 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:10:11 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:10:16 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:10:18 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :45000
+  2023-06-25 16:10:21 INFO  BasePage:67 - INFO: Entering text in Term is :35
+  2023-06-25 16:10:23 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 5 years
+  2023-06-25 16:10:25 INFO  BasePage:104 - INFO: Element from With a selected is : 6.84% p.a. 5 Year Fixed Rate Investment Home Loan
+  2023-06-25 16:10:27 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:10:29 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $123,460
+  2023-06-25 16:10:30 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $78,460
+  2023-06-25 16:10:32 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:10:32 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:10:37 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:10:43 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:10:48 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:10:50 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :50000
+  2023-06-25 16:10:53 INFO  BasePage:67 - INFO: Entering text in Term is :20
+  2023-06-25 16:10:55 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 1 year
+  2023-06-25 16:10:57 INFO  BasePage:56 - INFO: Element Input Interest Rate is clicked
+  2023-06-25 16:11:01 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:11:03 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $61,142
+  2023-06-25 16:11:03 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $11,142
+  2023-06-25 16:11:06 INFO  BasePage:31 - Url is : https://www.commbank.com.au/
+  2023-06-25 16:11:06 INFO  BasePage:32 - Title of the page is : CommBank - bank accounts, credit cards, home loans and insurance
+  2023-06-25 16:11:08 INFO  BasePage:56 - INFO: Element Home Loans is clicked
+  2023-06-25 16:11:13 INFO  BasePage:56 - INFO: Element Calculators And Tools is clicked
+  2023-06-25 16:11:18 INFO  BasePage:56 - INFO: Element Calculate Now is clicked
+  2023-06-25 16:11:21 INFO  BasePage:67 - INFO: Entering text in Loan Amount is :40000
+  2023-06-25 16:11:23 INFO  BasePage:67 - INFO: Entering text in Term is :30
+  2023-06-25 16:11:25 INFO  BasePage:92 - INFO: Element from Repayment Typeselected is : Interest only 2 years
+  2023-06-25 16:11:28 INFO  BasePage:56 - INFO: Element Input Interest Rate is clicked
+  2023-06-25 16:11:32 INFO  BasePage:56 - INFO: Element Calculate  Button is clicked
+  2023-06-25 16:11:34 INFO  BasePage:76 - INFO: Getting text from Total Loan Repayments is : $61,572
+  2023-06-25 16:11:34 INFO  BasePage:76 - INFO: Getting text from Total Interest Charged is : $21,572
+  

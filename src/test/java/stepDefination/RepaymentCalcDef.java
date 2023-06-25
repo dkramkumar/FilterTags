@@ -1,5 +1,7 @@
 package stepDefination;
 
+import java.time.Duration;
+import java.time.temporal.ChronoUnit;
 import java.util.concurrent.TimeUnit;
 
 import io.cucumber.java.en.Given;
@@ -25,7 +27,7 @@ public class RepaymentCalcDef extends BasePage{
 	@When("User clicks on {string} link")
 	public void user_clicks_on_link(String string) throws InterruptedException {
 		RepaymentCalcPage.clickOnCalculatorsAndTools(string);
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		Thread.sleep(2000);
 	}
 

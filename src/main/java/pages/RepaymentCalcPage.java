@@ -1,14 +1,10 @@
 package pages;
 
 import java.util.concurrent.TimeUnit;
-
-import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
-import utils.LoggerHelper;
 
 public class RepaymentCalcPage extends BasePage{
 	public static final By byLoanAmount = findBy("amount");
@@ -19,7 +15,6 @@ public class RepaymentCalcPage extends BasePage{
 	public static final By byTotalInterestCharged = findBy("//span[@data-tid='total-interest']");
 	public static final By byCalculateButton = findBy("submit");
 	public static final By byInputInterestRate = findBy("(//a[@id='useProductList'])[1]");
-	public static Logger log = LoggerHelper.getLogger(RepaymentCalcPage.class);
 	
 	public static void clickOnHomeLoansTab(String data) throws InterruptedException {
 		By byHomeLoans = findBy("(//li//a[contains(text(), '"+data+"')])[1]");
@@ -27,7 +22,7 @@ public class RepaymentCalcPage extends BasePage{
 		Thread.sleep(2000);
 	}
 
-	public static void clickOnCalculatorsAndTools(String data) throws InterruptedException {
+	public static void clickOnCalculatorsAndTools(String data) {
 		By byCalculatorsAndTools = findBy("//span[contains(text(), '"+data+"')]");
 		clickElement(byCalculatorsAndTools, "Calculators And Tools");
 		//driver.findElement(By.xpath("//span//a[contains(text(), 'Dismiss')]")).click();

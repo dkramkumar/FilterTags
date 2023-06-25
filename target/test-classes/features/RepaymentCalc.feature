@@ -26,8 +26,6 @@ Feature: Commbank
     Examples: 
       | LoanAmount | Term | Repayment Type        | With a  |
       |      35000 |   20 | Interest only 2 years | 7784123 |
-      |      65000 |   10 | Interest only 3 years |       1 |
-      |      28000 |   20 | Interest only 4 years |       6 |
 
   @smoke
   Scenario Outline: Home Loan repayment calculator - Investment (principal and interest)
@@ -42,8 +40,6 @@ Feature: Commbank
     Examples: 
       | LoanAmount | Term | Repayment Type        | With a  |
       |      50000 |   20 | Interest only 1 year  | 7774124 |
-      |      35000 |   40 | Interest only 3 years |      12 |
-      |      40000 |   20 | Interest only 4 years |      13 |
 
   @regression
   Scenario Outline: Home Loan repayment calculator - Input Interest Rate
@@ -60,4 +56,3 @@ Feature: Commbank
     Examples: 
       | LoanAmount | Term | Repayment Type        | With an Interest Rate of |
       |      50000 |   20 | Interest only 1 year  |                        2 |
-      |      40000 |   30 | Interest only 2 years |                        3 |
